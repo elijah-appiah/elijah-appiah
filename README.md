@@ -37,6 +37,9 @@ Econometrics | Machine Learning | Quant Finance
 Panel Data Models | Time Series Analysis
 Risk Modeling | Financial Analytics
 Data Visualization | Predictive Modeling
+```
+
+---
 
 ## 📫 Connect With Me
 
